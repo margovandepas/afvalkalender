@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28efdd45-5400-4130-ab3e-85b59a48d271" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grayscale.css" afterPath="$PROJECT_DIR$/css/grayscale.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/intro-img.jpg" afterPath="$PROJECT_DIR$/img/intro-img.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="585">
+              <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -30,8 +30,8 @@
       <file leaf-file-name="grayscale.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="102" column="35" lean-forward="false" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+            <state relative-caret-position="504">
+              <caret line="212" column="22" lean-forward="true" selection-start-line="212" selection-start-column="22" selection-end-line="212" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -46,14 +46,19 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/grayscale.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -139,12 +144,12 @@
       <option name="presentableId" value="Default" />
       <updated>1515410819560</updated>
       <workItem from="1515410820731" duration="306000" />
-      <workItem from="1515414643644" duration="693000" />
+      <workItem from="1515414643644" duration="890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="999000" />
+    <option name="totallyTimeSpent" value="1196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="300" y="78" width="1108" height="895" extended-state="0" />
@@ -196,16 +201,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="585">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/grayscale.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="102" column="35" lean-forward="false" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+        <state relative-caret-position="504">
+          <caret line="212" column="22" lean-forward="true" selection-start-line="212" selection-start-column="22" selection-end-line="212" selection-end-column="22" />
           <folding />
         </state>
       </provider>
